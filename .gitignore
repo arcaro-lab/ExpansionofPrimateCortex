@@ -30,8 +30,6 @@
 # Data #
 *.mov
 *.mp4
-*.csv
-*.mat
 *.txt
 *.npz
 *.json
